@@ -1,4 +1,4 @@
-# Optimization the most efficient route for amusement park attractions
+# Optimized the most efficient route for amusement park attractions
 
 ## Project Overview
 
